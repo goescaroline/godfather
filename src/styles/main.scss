@@ -84,12 +84,6 @@ body {
     }
 }
 
-.link-text {
-    @include text(18px);
-    color: variaveis.$corTextoSecundario;
-    text-decoration: underline;
-}
-
 .image-text-section {
     padding: 5.6vw;
     display: grid;
